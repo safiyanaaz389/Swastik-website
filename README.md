@@ -14,5 +14,8 @@
 - CSS3  
 
 ## ❤️ Author  
-Made with passion by [Safiya naaz]  
+Made with passion by [Safiya naaz]
+## Preview
+![Website Screenshot](Screenshot.png)
+
 
